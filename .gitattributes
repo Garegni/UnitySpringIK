@@ -1,0 +1,6 @@
+# Text is LF in the repo and on disk, on every OS. Unity writes LF, so git never has to
+# convert it. Binaries are detected and left untouched.
+* text=auto eol=lf
+
+# C# diff hunks name the method they are in.
+*.cs diff=csharp

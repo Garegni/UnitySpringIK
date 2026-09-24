@@ -1,0 +1,29 @@
+{
+  "name": "com.pixelcyto.springik",
+  "version": "1.0.0",
+  "displayName": "Spring IK",
+  "description": "Three-bone IK for digitigrade legs, as an Animation Rigging constraint.",
+  "unity": "6000.0",
+  "unityRelease": "23f1",
+  "documentationUrl": "https://github.com/Garegni/UnitySpringIK#readme",
+  "changelogUrl": "https://github.com/Garegni/UnitySpringIK/blob/main/UnitySpringIK/Assets/SpringIK/CHANGELOG.md",
+  "licensesUrl":"https://github.com/Garegni/UnitySpringIK/blob/main/LICENSE",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.animation.rigging": "1.4.1",
+    "com.unity.burst": "1.8.30"
+  },
+  "keywords": [
+    "ik",
+    "inverse-kinematics",
+    "animation-rigging",
+    "rigging",
+    "digitigrade",
+    "quadruped",
+    "spring-ik"
+  ],
+  "author": {
+    "name": "PixelCyto",
+    "url": "https://github.com/Garegni"
+  }
+}
